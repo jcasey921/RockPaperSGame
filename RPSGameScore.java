@@ -1,7 +1,6 @@
 /*
  * Rock/Paper/Scissors Game - Game Score
  * Justin L Casey
- * Class : PRG/215 Helen Jiang
  */
 package rpsgamescore;
 import java.util.Scanner;
